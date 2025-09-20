@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-20T15:23:44 IST" name="Suite" finished-at="2025-09-20T15:24:04 IST" duration-ms="19535">
+    <groups>
+    </groups>
+    <test started-at="2025-09-20T15:23:44 IST" name="Test" finished-at="2025-09-20T15:24:04 IST" duration-ms="19535">
+      <class name="pkg5.TC2">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:pkg5.TC2@22555ebf]" started-at="2025-09-20T15:23:44 IST" name="browserLaunch" finished-at="2025-09-20T15:23:47 IST" duration-ms="3442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="test2()[pri:0, instance:pkg5.TC2@22555ebf]" started-at="2025-09-20T15:23:47 IST" name="test2" finished-at="2025-09-20T15:23:54 IST" duration-ms="6318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:pkg5.TC2@22555ebf]" started-at="2025-09-20T15:23:54 IST" name="browserClose" finished-at="2025-09-20T15:23:54 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- pkg5.TC2 -->
+      <class name="pkg5.TC1">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:pkg5.TC1@4e08711f]" started-at="2025-09-20T15:23:54 IST" name="browserLaunch" finished-at="2025-09-20T15:23:56 IST" duration-ms="2246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="test1()[pri:0, instance:pkg5.TC1@4e08711f]" started-at="2025-09-20T15:23:56 IST" name="test1" finished-at="2025-09-20T15:24:03 IST" duration-ms="6949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:pkg5.TC1@4e08711f]" started-at="2025-09-20T15:24:03 IST" name="browserClose" finished-at="2025-09-20T15:24:04 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- pkg5.TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
