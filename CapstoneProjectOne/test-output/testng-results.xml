@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-17T01:57:24 IST" name="Default suite" finished-at="2025-10-17T01:57:29 IST" duration-ms="5041">
+    <groups>
+    </groups>
+    <test started-at="2025-10-17T01:57:24 IST" name="Default test" finished-at="2025-10-17T01:57:29 IST" duration-ms="5041">
+      <class name="testCase.TC2">
+        <test-method is-config="true" signature="invokeApp()[pri:0, instance:testCase.TC2@7d20d0b]" started-at="2025-10-17T01:57:20 IST" name="invokeApp" finished-at="2025-10-17T01:57:24 IST" duration-ms="3850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeApp -->
+        <test-method signature="Iphonecheck()[pri:0, instance:testCase.TC2@7d20d0b]" started-at="2025-10-17T01:57:24 IST" name="Iphonecheck" finished-at="2025-10-17T01:57:29 IST" duration-ms="4969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iphonecheck -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCase.TC2@7d20d0b]" started-at="2025-10-17T01:57:29 IST" name="closeBrowser" finished-at="2025-10-17T01:57:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCase.TC2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
